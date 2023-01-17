@@ -68,7 +68,7 @@ const (
 
 	// encoding stores a custom version of the base32 encoding with lower case
 	// letters.
-	encoding = "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
+	encoding = "23456789ABCDEFGHJKLMNPQRSTUVWXYZ"
 )
 
 var (
